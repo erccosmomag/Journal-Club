@@ -1,6 +1,6 @@
 # Journal-Club
 
-A suggestion is to "classify" papers we read by their relevance to specific tasks of COSMOMAG project:
+Propose papers for discussion at the next journal club by editing the latest dated YYYY-MM-JJ.md file. A suggestion is to "classify" papers we read by their relevance to specific topics (last column of the markdown file to edit):
 
 * T1.1 Gamma ray measurements of IGMF
 * T1.2 Radio measurements of IGMF
