@@ -7,5 +7,6 @@
 |[2510.13752](https://arxiv.org/abs/2510.13752)|Effects of primordial magnetic fields on 21 cm multifrequency angular power spectra|K. Kunze | Effects of PMFs with nB=-2.9-2.5 on 21cm power spectra and perspectives for SKA | ? |
 |[2610.00485](https://arxiv.org/pdf/2610.00485)|Constraining Primordial Magnetic Fields with Weak Lensing| D'Ambrosio & Viel | Convergence power spectrum for models where the initial matter conditions were modified based on PMFs, which enhance high multipoles (l>5000). They find  no clear degeneracy between the PMFs parameters and the intrinsic alignment or baryon feedback parameters, while B1Mpc and nB can be degenerate |T2.3.2. and T3.3|
 |[2610.07140](https://arxiv.org/pdf/2610.07140)|And Then There WEre Baryons (ATWEB): The Baryon Budget of the Universe in Halos and the IGM over 13 Billion Years of Cosmic Time| Ayromlou et al.| Comparison of closing radius for baryons for SIMBA, EAGLE, TNG| T2.3 |
+|[2610.06633](https://arxiv.org/abs/2610.06633v1)|Pair echo model of CTAO/LST-1 signal from GRB 221009A| Neronov et al. | Detection of pair echo signal in a GRB turned into constraints on B and lambdaB |T.1. | 
 
 
